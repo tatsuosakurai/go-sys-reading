@@ -6,7 +6,7 @@
   * 本 https://www.lambdanote.com/collections/go/products/go
   * [Shibu's Diary: ASCII.jpの連載「Goならわかるシステムプログラミング」がパワーアップして書籍化されます]( http://blog.shibu.jp/article/181327596.html )
 * 毎月 第1・第3月曜の22時から1時間♪
-* ハッシュタグは [#go-sys-reading](https://twitter.com/search?f=tweets&q=%23go-sys-reading&src=typd)
+* ハッシュタグは [#go_sys_reading](https://twitter.com/search?f=tweets&q=%23go_sys_reading&src=typd)
 
 # チャット
 [![Join the chat at https://gitter.im/go-sys-reading/Lobby?source=orgpage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/go-sys-reading/Lobby?source=orgpage&utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
