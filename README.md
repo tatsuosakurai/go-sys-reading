@@ -1,5 +1,5 @@
 # go-sys-reading
-- 「Goならわかるシステムプログラミング」の読書会です
+- 「Goならわかるシステムプログラミング」のオンライン読書会です
 
 # 概要
 * 書籍 「Goならわかるシステムプログラミング」 のオンライン（gitterでチャットしながらやる）読書会です
@@ -12,8 +12,8 @@
 [![Join the chat at https://gitter.im/go-sys-reading/Lobby?source=orgpage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/go-sys-reading/Lobby?source=orgpage&utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-# 次回予告
-* 2017/11/20月 22:00 からです〜
+# 次回の予定
+* 2017/12/04月 22:00 からです〜
 
 
 # こんな感じで進めます
